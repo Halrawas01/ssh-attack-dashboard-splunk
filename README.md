@@ -18,3 +18,4 @@ This is a simple dashboard built in Splunk to detect failed SSH login attempts, 
 
 ## Built for
 Splunk lab practice / Cybersecurity analytics
+[SSH Attack Detection_2025-08-07 at 01.02.07-0400_Splunk.json](https://github.com/user-attachments/files/21652946/SSH.Attack.Detection_2025-08-07.at.01.02.07-0400_Splunk.json)
